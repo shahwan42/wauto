@@ -42,7 +42,7 @@
 ---
 ## Contribute!:
 > I'm just starting, if you have any ideas to help make this script more useful
-> don't hesitate to open an issue or [mail me](mailto:aloay.py@gmail.com)
+> don't hesitate to open an issue or [mail me](mailto:aloay.me@gmail.com)
 
 ---
 ## License
