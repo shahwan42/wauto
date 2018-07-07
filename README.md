@@ -29,20 +29,20 @@
 
 - [x] send a message to multiple numbers
 - [x] read numbers from external file [numlist.txt](./numlist.txt)
+- [ ] handle if number is not on whatsapp
 - [ ] check the sanity of numbers provided in the numlist.txt
 - [ ] correct if number contains '+' in its begining
 - [ ] split numlist into multiple files if more than 1000 numbers
-- [ ] handle if number is not on whatsapp
 - [ ] change time after every 10 messages sent in order not to be blocked!
-- [ ] create a GUI for the script
 - [ ] support firefox
 - [ ] run on multiple browsers at the same time (for different numbers)
 - [ ] make setup.sh work properly
+- [ ] create a GUI for the script
 
 ---
 ## Contribute!:
 > I'm just starting, if you have any ideas to help make this script more useful
-> don't hesitate to open an issue or [mail me](mailto:aloay.me@gmail.com)
+> don't hesitate to open an issue or [mail me](mailto:ahmedloay.me@gmail.com)
 
 ---
 ## License
